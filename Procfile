@@ -1,1 +1,1 @@
-worker: python War Thunder Bot.py
+worker: python3 bot.py
